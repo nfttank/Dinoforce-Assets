@@ -2,7 +2,7 @@
 
 This repository contains assets and templates from and for our upcoming project [Dinoforce](https://twitter.com/dinoforcenft).
 
-![meteorite teaser](/teasers/meteorite%20teaser.gif)
+![meteorite teaser](/teasers/1%20meteorite%20teaser.gif)
 
 Everything you find in this repository is free to use in any way you want.
 
